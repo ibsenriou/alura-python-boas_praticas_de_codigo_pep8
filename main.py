@@ -21,4 +21,3 @@ print(fila_teste_2.chama_cliente(10))
 print(fila_teste_2.chama_cliente(3))
 
 print(fila_teste_2.estatistica('10/01/1993', 198, 'detail'))
-
